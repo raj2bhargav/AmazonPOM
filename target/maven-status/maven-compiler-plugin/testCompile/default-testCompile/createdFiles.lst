@@ -1,0 +1,4 @@
+com\qa\amazon\testcases\LandingPageTest.class
+com\qa\amazon\testcases\HomePageTest.class
+com\qa\amazon\testcases\SignInPageTest.class
+com\qa\amazon\testcases\LoginPageTest.class

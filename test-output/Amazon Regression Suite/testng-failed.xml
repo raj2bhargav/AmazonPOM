@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="6" parallel="tests" name="Failed suite [Amazon Regression Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="6" parallel="tests" name="Amazon Test Case(failed)">
+    <classes>
+      <class name="com.qa.amazon.testcases.LoginPageTest">
+        <methods>
+          <include name="verifyEnterEmailAddress"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.amazon.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Amazon Test Case(failed) -->
+</suite> <!-- Failed suite [Amazon Regression Suite] -->

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-22T00:35:42Z" name="Surefire suite" finished-at="2020-09-22T00:38:23Z" duration-ms="161212">
+    <groups>
+    </groups>
+    <test started-at="2020-09-22T00:35:42Z" name="Surefire test" finished-at="2020-09-22T00:38:23Z" duration-ms="161212">
+      <class name="com.qa.amazon.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.amazon.testcases.LoginPageTest@33d512c1]" started-at="2020-09-22T00:37:10Z" name="setUp" finished-at="2020-09-22T00:37:37Z" duration-ms="27578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.amazon.testcases.LoginPageTest@33d512c1]" started-at="2020-09-22T00:37:37Z" name="verifyLoginPageTitleTest" finished-at="2020-09-22T00:37:37Z" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.amazon.testcases.LoginPageTest@33d512c1]" started-at="2020-09-22T00:37:37Z" name="tearDown" finished-at="2020-09-22T00:37:39Z" duration-ms="2110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.amazon.testcases.LoginPageTest -->
+      <class name="com.qa.amazon.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.amazon.testcases.HomePageTest@3590fc5b]" started-at="2020-09-22T00:35:42Z" name="setUp" finished-at="2020-09-22T00:36:37Z" duration-ms="54892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitleTest()[pri:1, instance:com.qa.amazon.testcases.HomePageTest@3590fc5b]" started-at="2020-09-22T00:36:37Z" name="verifyHomePageTitleTest" finished-at="2020-09-22T00:36:39Z" duration-ms="2875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.amazon.testcases.HomePageTest@3590fc5b]" started-at="2020-09-22T00:36:39Z" name="tearDown" finished-at="2020-09-22T00:36:44Z" duration-ms="4981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.amazon.testcases.HomePageTest -->
+      <class name="com.qa.amazon.testcases.LandingPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.amazon.testcases.LandingPageTest@397fbdb]" started-at="2020-09-22T00:36:44Z" name="setUp" finished-at="2020-09-22T00:36:57Z" duration-ms="12836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLandingPageTitleTest()[pri:1, instance:com.qa.amazon.testcases.LandingPageTest@397fbdb]" started-at="2020-09-22T00:36:57Z" name="verifyLandingPageTitleTest" finished-at="2020-09-22T00:36:57Z" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLandingPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.amazon.testcases.LandingPageTest@397fbdb]" started-at="2020-09-22T00:36:57Z" name="tearDown" finished-at="2020-09-22T00:37:10Z" duration-ms="12175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.amazon.testcases.LandingPageTest -->
+      <class name="com.qa.amazon.testcases.SignInPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.amazon.testcases.SignInPageTest@515c6049]" started-at="2020-09-22T00:37:39Z" name="setUp" finished-at="2020-09-22T00:38:18Z" duration-ms="38911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySignInPageTitleTest()[pri:1, instance:com.qa.amazon.testcases.SignInPageTest@515c6049]" started-at="2020-09-22T00:38:18Z" name="verifySignInPageTitleTest" finished-at="2020-09-22T00:38:18Z" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.amazon.testcases.SignInPageTest@515c6049]" started-at="2020-09-22T00:38:18Z" name="tearDown" finished-at="2020-09-22T00:38:23Z" duration-ms="4569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.amazon.testcases.SignInPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
